@@ -60,7 +60,7 @@ msgstr "Importar"
 #: templates/admin/import_export/export.html:34
 #: templates/admin/import_export/import.html:57
 msgid "Submit"
-msgstr ""
+msgstr "Entregar"
 
 #: templates/admin/import_export/import.html:19
 msgid ""
